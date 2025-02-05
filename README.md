@@ -6,10 +6,18 @@ This repository contains the available extension catalogues for the [AnymeX](htt
 ```
 https://miraienoki.github.io/anymex-extensions/anime_index.json
 ```
+### Alternative Link (Raw):
+```
+https://raw.githubusercontent.com/miraienoki/anymex-extensions/main/anime_index.json
+```
 
 ## Manga Repo
 ```
 https://miraienoki.github.io/anymex-extensions/index.json
+```
+### Alternative Link (Raw):
+```
+https://raw.githubusercontent.com/miraienoki/anymex-extensions/main/index.json
 ```
 
 # Contributing
