@@ -1,13 +1,18 @@
-# Mangayomi Extensions
+# AnymeX Extensions
 
-This repository contains the available extension catalogues for the [Mangayomi](https://github.com/kodjodevf/mangayomi) app.
+This repository contains the available extension catalogues for the [AnymeX](https://github.com/RyanYuuki/AnymeX) app.
 
+## Anime Repo
+The extension catalog for anime can be found [here](https://miraienoki.github.io/anymex-extensions/anime_index.json).
+
+## Manga Repo
+The extension catalog for manga can be found [here](https://miraienoki.github.io/anymex-extensions/index.json).
 
 # Contributing
 
 Contributions are welcome!
 
-To get started with development, see [CONTRIBUTING-DART.md](./CONTRIBUTING-DART.md) for create sources in Dart or [CONTRIBUTING-JS.md](./CONTRIBUTING-JS.md) for create sources in JavaScript.
+To get started with development, see [CONTRIBUTING-DART.md](./CONTRIBUTING-DART.md) for creating sources in Dart or [CONTRIBUTING-JS.md](./CONTRIBUTING-JS.md) for creating sources in JavaScript.
 
 ## License
 
@@ -24,8 +29,6 @@ To get started with development, see [CONTRIBUTING-DART.md](./CONTRIBUTING-DART.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-
 
 ## Disclaimer
 
